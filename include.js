@@ -6526,6 +6526,17 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+
+  {
+    artName: 'afzalation',
+    pageLink: './Art/Joy/afzalation/index.html',
+    imageLink: '',
+    author: 'Afzalkarani',
+    githubLink: 'https://github.com/afzalkarani'
+  }
+];
+
+
 ];
 
 // +--------------------------------------------------------------------------------+
